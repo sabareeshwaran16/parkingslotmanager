@@ -1,3 +1,4 @@
+Deployed Link:https://parkingslotmanager.onrender.com
 # 🚗 Parking Slot Manager
 
 A professional, cloud-ready Spring Boot application for managing parking slots, vehicle logs, and user roles. Built with a modern tech stack and optimized for cloud deployment.
